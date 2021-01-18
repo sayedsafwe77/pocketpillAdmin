@@ -1,0 +1,21 @@
+1-add logo to the admin pages
+2-add pages for super admin
+ -list of pharmacies
+ -crud operations  for the pharmacies
+ -list of requests to join our platform (notifications)
+ -ask to add new branch
+be with us join our community(register for new pharmacy) from user panel 
+componant
+
+
+
+
+create account 	f
+stuff f
+-add department f
+-add new employer f
+product  f
+-add catagory f
+-add new product f
+profile f
+dashboard profile  f 

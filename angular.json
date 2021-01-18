@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/admin-css/bootstrap.min.css",
+              "src/admin-css/templatemo-style.css"
             ],
             "scripts": []
           },
